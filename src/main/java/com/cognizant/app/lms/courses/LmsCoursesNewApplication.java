@@ -12,7 +12,7 @@ public class LmsCoursesNewApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LmsCoursesNewApplication.class, args);
-		System.out.println("LMS Courses Service Started Git Check");
+		System.out.println("LMS Courses Service Started");
 	}
 
 }
